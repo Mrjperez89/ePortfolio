@@ -23,6 +23,11 @@ Analyzed and reverse-engineered software to identify security vulnerabilities, e
 - **Technologies Used:** C++, IDA Pro, Ghidra
 - *Project details available upon request.*
 
+### Grazioso Salvare Rescue Web App (CS 340: Client/Server Development)
+Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.
+- **Technologies Used:** MongoDB, Python, Dash, Flask
+- **[View on GitHub](https://github.com/Mrjperez89/international-rescue-animal-training-company-Grazioso-Salvare)**
+
 ## Professional Skills
 - **Programming Languages:** Java, C++, Python
 - **Tools and Technologies:** Spring Security, IDA Pro, Ghidra, Git
