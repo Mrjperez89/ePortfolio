@@ -1,6 +1,6 @@
 # Welcome to My ePortfolio
 
-Hello! I'm Justin Perez, a Computer Science student at Southern New Hampshire University (SNHU). This ePortfolio showcases my progress and achievements in the field of computer science, particularly focusing on secure coding and reverse engineering.
+Hello! I'm Justin Perez, a Computer Science student at Southern New Hampshire University (SNHU), nearing the completion of my Bachelor's Degree with a concentration in Software Engineering. This ePortfolio highlights my journey, progress, and achievements in computer science, with a strong emphasis on secure coding, software development, and engineering principles. Thank you for visiting!
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -9,7 +9,7 @@ Hello! I'm Justin Perez, a Computer Science student at Southern New Hampshire Un
 - [Contact Information](#contact-information)
 
 ## About Me
-I am currently completing my Bachelor's Degree in Computer Science with a concentration in Software Engineering. I have a background in retail management, but my passion for technology and problem-solving led me to transition into computer science. My focus areas are secure software development and reverse engineering, and I am driven to create secure and reliable applications.
+I am on track to complete my Bachelor’s Degree in Computer Science with a concentration in Software Engineering in December 2024. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving. My focus areas include secure software development and reverse engineering, with the goal of building reliable, scalable applications. Over the course of my studies, I have developed a strong foundation in the software development life cycle, data structures, and algorithms. These skills align with my career aspirations in software engineering, where I aim to specialize in creating secure, high-quality software solutions.
 
 ## Projects
 
