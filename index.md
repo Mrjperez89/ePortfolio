@@ -9,32 +9,30 @@ Hello! I'm Justin Perez, a Computer Science student at Southern New Hampshire Un
 - [Contact Information](#contact-information)
 
 ## About Me
-I am on track to complete my Bachelor’s Degree in Computer Science with a concentration in Software Engineering in December 2024. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving. My focus areas include secure software development and reverse engineering, with the goal of building reliable, scalable applications. Over the course of my studies, I have developed a strong foundation in the software development life cycle, data structures, and algorithms. These skills align with my career aspirations in software engineering, where I aim to specialize in creating secure, high-quality software solutions.
+I am on track to complete my Bachelor’s Degree in Computer Science with a concentration in Software Engineering in December 2024. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving.
 
 ## Projects
 
 ### Secure Authentication System (CS 405: Secure Coding)
-Developed a secure authentication system that mitigates common security vulnerabilities, with features like encrypted password storage and two-factor authentication.
-- **Technologies Used:** Java, Spring Security
-- **[View on GitHub](https://github.com/Mrjperez89/CS-405-13765-M01-Secure-Coding-2024)**
+Developed a secure authentication system that mitigates common security vulnerabilities, including encrypted password storage and input validation.
+- **[Narrative](CS%20499%20Milestone%20Two%20Narrative.docx)**
+- **[Project Code](5-2%20EncryptionCodingActivity/app.py)**
 
 ### Reverse Engineering Software (CS 410: Reverse Software Engineering)
 Analyzed and reverse-engineered software to identify security vulnerabilities, enhancing system security and proposing further improvements.
-- **Technologies Used:** C++, IDA Pro, Ghidra
-- *Project details available upon request.*
+- **[Narrative](CS%20499%20Milestone%20Three%20Narrative.docx)**
+- **[Project Code](CS410Project/source.cpp)**
 
 ### Grazioso Salvare Rescue Web App (CS 340: Client/Server Development)
 Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.
-- **Technologies Used:** MongoDB, Python, Dash, Flask
-- **[View on GitHub](https://github.com/Mrjperez89/international-rescue-animal-training-company-Grazioso-Salvare)**
+- **[Narrative](CS%20499%20Milestone%20Four%20Narrative.docx)**
+- **[Project Code](international-rescue-animal-training-company-Grazioso-Salvare/app.py)**
 
 ## Professional Skills
 - **Programming Languages:** Java, C++, Python
-- **Tools and Technologies:** Spring Security, IDA Pro, Ghidra, Git
+- **Tools and Technologies:** Spring Security, IDA Pro, Ghidra, MongoDB, Git
 - **Core Competencies:** Secure coding practices, software analysis, reverse engineering, data structures, and algorithms.
 
 ## Contact Information
 - **Email:** [mrjperez89@gmail.com](mailto:mrjperez89@gmail.com)
 - **GitHub:** [GitHub Profile](https://github.com/Mrjperez89)
-
-Thank you for visiting my ePortfolio! Feel free to reach out if you have questions or would like to discuss my work further.
