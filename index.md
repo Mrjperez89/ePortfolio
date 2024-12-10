@@ -15,17 +15,17 @@ I am on track to complete my Bachelor’s Degree in Computer Science with a conc
 
 ### Secure Authentication System (CS 405: Secure Coding)
 Developed a secure authentication system that mitigates common security vulnerabilities, including encrypted password storage and input validation.
-- **[Narrative](CS 499 Milestone Two Narrative.docx)**
-- **[Project Code](5-2EncryptionCodingActivity)**
+- **[Narrative](CS%20499%20Milestone%20Two%20Narrative.docx)**
+- **[Project Code](5-2%20EncryptionCodingActivity)**
 
 ### Reverse Engineering Software (CS 410: Reverse Software Engineering)
 Analyzed and reverse-engineered software to identify security vulnerabilities, enhancing system security and proposing further improvements.
-- **[Narrative](CS 499 Milestone Three Narrative.docx)**
+- **[Narrative](CS%20499%20Milestone%20Three%20Narrative.docx)**
 - **[Project Code](CS410Project)**
 
 ### Grazioso Salvare Rescue Web App (CS 340: Client/Server Development)
 Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.
-- **[Narrative](CS 499 Milestone Four Narrative.docx)**
+- **[Narrative](CS%20499%20Milestone%20Four%20Narrative.docx)**
 - **[Project Code](international-rescue-animal-training-company-Grazioso-Salvare)**
 
 ## Professional Skills
