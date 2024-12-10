@@ -16,7 +16,7 @@ I am on track to complete my Bachelor’s Degree in Computer Science with a conc
 ### Secure Authentication System (CS 405: Secure Coding)
 Developed a secure authentication system that mitigates common security vulnerabilities, including encrypted password storage and input validation.
 - **[Narrative](CS 499 Milestone Two Narrative.docx)**
-- **[Project Code](5-2 EncryptionCodingActivity)**
+- **[Project Code](5-2EncryptionCodingActivity)**
 
 ### Reverse Engineering Software (CS 410: Reverse Software Engineering)
 Analyzed and reverse-engineered software to identify security vulnerabilities, enhancing system security and proposing further improvements.
