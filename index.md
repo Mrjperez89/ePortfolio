@@ -4,29 +4,48 @@ Hello! I'm Justin Perez, a Computer Science student at Southern New Hampshire Un
 
 ## Table of Contents
 - [About Me](#about-me)
+- [Professional Self-Assessment](#professional-self-assessment)
 - [Projects](#projects)
+- [Code Review](#code-review)
 - [Professional Skills](#professional-skills)
 - [Contact Information](#contact-information)
 
 ## About Me
-I am on track to complete my Bachelor’s Degree in Computer Science with a concentration in Software Engineering in December 2024. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving.
+I am on track to complete my Bachelor’s Degree in Computer Science with a concentration in Software Engineering in December 2024. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving. My focus areas include secure software development and reverse engineering, with the intention of building reliable, scalable applications.
+
+## Professional Self-Assessment
+This self-assessment reflects on my journey through the Computer Science program at SNHU, highlighting the skills I have developed, the challenges I have overcome, and my aspirations in the field of software engineering. It is a holistic introduction to my portfolio and provides context for the work presented here.
+
+I have demonstrated skills in the following:
+- Collaborative teamwork to solve technical challenges
+- Communication with stakeholders through detailed technical documentation and presentations
+- Secure coding practices to ensure application safety and data protection
+- Optimized algorithm design and efficient data structure usage
+- Database design and query optimization for enhanced performance
+
+My work emphasizes secure, efficient, and innovative software solutions for real-world challenges. Please explore my portfolio for tangible evidence of these competencies.
 
 ## Projects
 
 ### Secure Authentication System (CS 405: Secure Coding)
 Developed a secure authentication system that mitigates common security vulnerabilities, including encrypted password storage and input validation.
-- **[Narrative](CS%20499%20Milestone%20Two%20Narrative.docx)**
-- **[Project Code](5-2%20EncryptionCodingActivity)**
+- **[Narrative](Narratives/CS405_Narrative.docx)**
+- **[Project Code](Projects/CS405/)**
 
 ### Reverse Engineering Software (CS 410: Reverse Software Engineering)
 Analyzed and reverse-engineered software to identify security vulnerabilities, enhancing system security and proposing further improvements.
-- **[Narrative](CS%20499%20Milestone%20Three%20Narrative.docx)**
-- **[Project Code](CS410Project)**
+- **[Narrative](Narratives/CS410_Narrative.docx)**
+- **[Project Code](Projects/CS410/)**
 
 ### Grazioso Salvare Rescue Web App (CS 340: Client/Server Development)
 Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.
-- **[Narrative](CS%20499%20Milestone%20Four%20Narrative.docx)**
-- **[Project Code](international-rescue-animal-training-company-Grazioso-Salvare)**
+- **[Narrative](Narratives/CS340_Narrative.docx)**
+- **[Project Code](Projects/CS340/)**
+
+## Code Review
+As part of this capstone project, I conducted a comprehensive code review of the artifacts in my portfolio. This review highlights the code's functionality, areas for improvement, and planned enhancements.
+
+- **[Watch Code Review Video](https://www.youtube.com/example-video-link)**
 
 ## Professional Skills
 - **Programming Languages:** Java, C++, Python
@@ -36,3 +55,6 @@ Developed a MongoDB-integrated web application for Grazioso Salvare, allowing us
 ## Contact Information
 - **Email:** [mrjperez89@gmail.com](mailto:mrjperez89@gmail.com)
 - **GitHub:** [GitHub Profile](https://github.com/Mrjperez89)
+- 🌐 **Portfolio Website:** [GitHub Pages ePortfolio](https://mrjperez89.github.io/ePortfolio)
+
+Thank you for visiting my ePortfolio. Please feel free to contact me if you have questions or would like to discuss my work further.
