@@ -45,7 +45,7 @@ Developed a MongoDB-integrated web application for Grazioso Salvare, allowing us
 ## Code Review
 As part of this capstone project, I conducted a comprehensive code review of the artifacts in my portfolio. This review highlights the code's functionality, areas for improvement, and planned enhancements.
 
-- **[Watch Code Review Video](https://www.youtube.com/example-video-link)**
+- **[Watch Code Review Video](https://youtu.be/72ZpKvantUk)**
 
 ## Professional Skills
 - **Programming Languages:** Java, C++, Python
