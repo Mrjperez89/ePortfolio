@@ -2,8 +2,6 @@
 
 Hello! I'm Justin Perez, a Computer Science student at Southern New Hampshire University (SNHU), nearing the completion of my Bachelor's Degree with a concentration in Software Engineering. This ePortfolio highlights my journey, progress, and achievements in computer science, with a strong emphasis on secure coding, software development, and engineering principles.
 
----
-
 ## Table of Contents
 - [About Me](#about-me)
 - [Professional Self-Assessment](#professional-self-assessment)
@@ -12,24 +10,20 @@ Hello! I'm Justin Perez, a Computer Science student at Southern New Hampshire Un
 - [Professional Skills](#professional-skills)
 - [Contact Information](#contact-information)
 
----
-
 ## About Me
 I am on track to complete my Bachelor’s Degree in Computer Science with a concentration in Software Engineering in December 2024. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving. My focus areas include secure software development and reverse engineering, with the intention of building reliable, scalable applications.
-
----
 
 ## Professional Self-Assessment
 This self-assessment reflects on my journey through the Computer Science program at SNHU, highlighting the skills I have developed, the challenges I have overcome, and my aspirations in the field of software engineering. It is a holistic introduction to my portfolio and provides context for the work presented here.
 
-### Skills Demonstrated:
-- **Collaboration**: Engaged in teamwork to tackle technical challenges, including peer reviews and joint problem-solving.
-- **Communication**: Delivered technical documentation, presentations, and narratives for artifacts.
-- **Secure Coding**: Developed robust systems adhering to industry standards, such as encrypted authentication (CS 405).
-- **Algorithm Design**: Optimized existing systems for efficiency, including secure systems and data handling (CS 410).
-- **Database Optimization**: Improved query performance and implemented real-time data updates (CS 340).
+I have demonstrated skills in the following:
+- Collaborative teamwork to solve technical challenges
+- Communication with stakeholders through detailed technical documentation and presentations
+- Secure coding practices to ensure application safety and data protection
+- Optimized algorithm design and efficient data structure usage
+- Database design and query optimization for enhanced performance
 
----
+My work emphasizes secure, efficient, innovative software solutions for real-world challenges. I'd like you to please explore my portfolio for tangible evidence of these competencies.
 
 ## Projects
 
@@ -48,30 +42,19 @@ Developed a MongoDB-integrated web application for Grazioso Salvare, allowing us
 - **[Narrative](Narratives/CS340_Narrative.docx)**
 - **[Project Code](Projects/CS340/)**
 
----
-
 ## Code Review
-The Code Review provides an in-depth walkthrough of the artifacts in this portfolio. It highlights:
-- Existing functionality before enhancement.
-- Areas for improvement in code structure, logic, and security.
-- Planned enhancements addressing key weaknesses and improving alignment with course outcomes.
+As part of this capstone project, I conducted a comprehensive code review of the artifacts in my portfolio. This review highlights the code's functionality, areas for improvement, and planned enhancements.
 
 - **[Watch Code Review Video](https://youtu.be/72ZpKvantUk)**
-
----
 
 ## Professional Skills
 - **Programming Languages:** Java, C++, Python
 - **Tools and Technologies:** Spring Security, IDA Pro, Ghidra, MongoDB, Git
 - **Core Competencies:** Secure coding practices, software analysis, reverse engineering, data structures, and algorithms.
 
----
-
 ## Contact Information
 - **Email:** [mrjperez89@gmail.com](mailto:mrjperez89@gmail.com)
 - **GitHub:** [GitHub Profile](https://github.com/Mrjperez89)
 - 🌐 **Portfolio Website:** [GitHub Pages ePortfolio](https://mrjperez89.github.io/ePortfolio)
-
----
 
 Thank you for visiting my ePortfolio. Please feel free to contact me if you have questions or would like to discuss my work further.
