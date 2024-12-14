@@ -29,18 +29,18 @@ My work emphasizes secure, efficient, innovative software solutions for real-wor
 
 ### Secure Authentication System (CS 405: Secure Coding)
 Developed a secure authentication system that mitigates common security vulnerabilities, including encrypted password storage and input validation.
-- **[Narrative](Narratives/CS405_Narrative.docx)**
-- **[Project Code](Projects/CS405/)**
+- **[Narrative](https://github.com/Mrjperez89/ePortfolio/blob/a82c0f74a8532aa2d8cb1e906d1ba5162188f706/CS%20499%20Milestone%20Two%20Narrative.docx)**
+- **[Project Code](https://github.com/Mrjperez89/ePortfolio/tree/a82c0f74a8532aa2d8cb1e906d1ba5162188f706/5-2%20EncryptionCodingActivity)**
 
 ### Reverse Engineering Software (CS 410: Reverse Software Engineering)
 Analyzed and reverse-engineered software to identify security vulnerabilities, enhancing system security and proposing further improvements.
-- **[Narrative](Narratives/CS410_Narrative.docx)**
-- **[Project Code](Projects/CS410/)**
+- **[Narrative](https://github.com/Mrjperez89/ePortfolio/blob/a82c0f74a8532aa2d8cb1e906d1ba5162188f706/CS%20499%20Milestone%20Three%20Narrative.docx)**
+- **[Project Code](https://github.com/Mrjperez89/ePortfolio/tree/a82c0f74a8532aa2d8cb1e906d1ba5162188f706/CS410Project)**
 
 ### Grazioso Salvare Rescue Web App (CS 340: Client/Server Development)
 Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.
-- **[Narrative](Narratives/CS340_Narrative.docx)**
-- **[Project Code](Projects/CS340/)**
+- **[Narrative](https://github.com/Mrjperez89/ePortfolio/blob/a82c0f74a8532aa2d8cb1e906d1ba5162188f706/CS%20499%20Milestone%20Four%20Narrative.docx)**
+- **[Project Code](https://github.com/Mrjperez89/ePortfolio/tree/a82c0f74a8532aa2d8cb1e906d1ba5162188f706/international-rescue-animal-training-company-Grazioso-Salvare)**
 
 ## Code Review
 As part of this capstone project, I conducted a comprehensive code review of the artifacts in my portfolio. This review highlights the code's functionality, areas for improvement, and planned enhancements.
