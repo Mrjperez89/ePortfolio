@@ -1,76 +1,126 @@
-<link rel="stylesheet" href="style.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Justin Perez - ePortfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #4169e1;
+      color: white;
+      text-align: center;
+      padding: 1.5em;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin: 0.5rem 0 0;
+    }
+    section {
+      margin: 2rem auto;
+      padding: 1rem 2rem;
+      max-width: 800px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    section h2, section h3 {
+      font-size: 1.8rem;
+      color: #333;
+      margin-bottom: 0.5rem;
+      border-bottom: 2px solid #4169e1;
+      padding-bottom: 0.3rem;
+    }
+    section ul {
+      list-style: none;
+      padding: 0;
+    }
+    section ul li {
+      margin: 0.5rem 0;
+    }
+    a {
+      color: #4169e1;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      color: #27478a;
+    }
+    .btn {
+      display: inline-block;
+      font-size: 1rem;
+      font-weight: 500;
+      background: #4169e1;
+      color: #fff;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      border-radius: 20px;
+      border: 2px solid #4169e1;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+    .btn:hover {
+      background-color: #fff;
+      color: #4169e1;
+    }
+    footer {
+      text-align: center;
+      margin-top: 2rem;
+      padding: 1rem;
+      background: #333;
+      color: #fff;
+    }
+    footer a {
+      color: #f4f4f9;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎓 Welcome to My ePortfolio</h1>
+    <p>Showcasing Achievements in Computer Science</p>
+  </header>
+  <section>
+    <h2>📖 About Me</h2>
+    <p>I am on track to complete my <strong>Bachelor’s Degree in Computer Science</strong> with a concentration in Software Engineering in <strong>December 2024</strong>. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving.</p>
+  </section>
+  <section>
+    <h2>📝 Professional Self-Assessment</h2>
+    <ul>
+      <li>🤝 Collaborative teamwork to solve technical challenges</li>
+      <li>✍️ Communication with stakeholders through detailed technical documentation and presentations</li>
+      <li>🔐 Secure coding practices to ensure application safety and data protection</li>
+      <li>⚙️ Optimized algorithm design and efficient data structure usage</li>
+      <li>📂 Database design and query optimization for enhanced performance</li>
+    </ul>
+  </section>
+  <section>
+    <h2>💻 Projects</h2>
+    <h3>🔐 Secure Authentication System (CS 405: Secure Coding)</h3>
+    <p>Developed a secure authentication system that mitigates common security vulnerabilities, including encrypted password storage and input validation.</p>
+    <a class="btn" href="https://github.com/Mrjperez89/ePortfolio/tree/main/5-2%20EncryptionCodingActivity">📂 Project Code Folder</a>
 
-# 🎓 Welcome to My ePortfolio
+    <h3>🔍 Reverse Engineering Software (CS 410: Reverse Software Engineering)</h3>
+    <p>Analyzed and reverse-engineered software to identify security vulnerabilities, enhancing system security and proposing further improvements.</p>
+    <a class="btn" href="https://github.com/Mrjperez89/ePortfolio/tree/main/CS410Project">📂 Project Code Folder</a>
 
-Hello! I'm **Justin Perez**, a Computer Science student at **Southern New Hampshire University (SNHU)**, nearing the completion of my Bachelor's Degree with a concentration in **Software Engineering**. This ePortfolio highlights my journey, progress, and achievements in computer science, with a strong emphasis on secure coding, software development, and engineering principles.
-
-## 📋 Table of Contents
-- [📖 About Me](#about-me)
-- [📝 Professional Self-Assessment](#professional-self-assessment)
-- [💻 Projects](#projects)
-- [📂 Code Review](#code-review)
-- [📊 Professional Skills](#professional-skills)
-- [📬 Contact Information](#contact-information)
-
----
-
-## 📖 About Me
-I am on track to complete my **Bachelor’s Degree in Computer Science** with a concentration in Software Engineering in **December 2024**. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving. My focus areas include secure software development and reverse engineering, with the intention of building reliable, scalable applications.
-
----
-
-## 📝 Professional Self-Assessment
-This self-assessment reflects on my journey through the Computer Science program at SNHU, highlighting the skills I have developed, the challenges I have overcome, and my aspirations in the field of software engineering. It is a holistic introduction to my portfolio and provides context for the work presented here.
-
-### 🔑 Skills Demonstrated:
-- 🤝 Collaborative teamwork to solve technical challenges
-- ✍️ Communication with stakeholders through detailed technical documentation and presentations
-- 🔐 Secure coding practices to ensure application safety and data protection
-- ⚙️ Optimized algorithm design and efficient data structure usage
-- 📂 Database design and query optimization for enhanced performance
-
-My work emphasizes secure, efficient, innovative software solutions for real-world challenges. I'd like you to please explore my portfolio for tangible evidence of these competencies.
-
----
-
-## 💻 Projects
-
-### 🔐 Secure Authentication System (CS 405: Secure Coding)
-Developed a secure authentication system that mitigates common security vulnerabilities, including encrypted password storage and input validation.
-- **📜 [Narrative](CS%20499%20Milestone%20Two%20Narrative.docx)**
-- **📂 [Project Code Folder](https://github.com/Mrjperez89/ePortfolio/tree/main/5-2%20EncryptionCodingActivity)**
-
-### 🔍 Reverse Engineering Software (CS 410: Reverse Software Engineering)
-Analyzed and reverse-engineered software to identify security vulnerabilities, enhancing system security and proposing further improvements.
-- **📜 [Narrative](CS%20499%20Milestone%20Three%20Narrative.docx)**
-- **📂 [Project Code Folder](https://github.com/Mrjperez89/ePortfolio/tree/main/CS410Project)**
-
-### 🐾 Grazioso Salvare Rescue Web App (CS 340: Client/Server Development)
-Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.
-- **📜 [Narrative](CS%20499%20Milestone%20Four%20Narrative.docx)**
-- **📂 [Project Code Folder](https://github.com/Mrjperez89/ePortfolio/tree/main/ProjectTwoDashboard)**
-
----
-
-## 📂 Code Review
-As part of this capstone project, I conducted a comprehensive code review of the artifacts in my portfolio. This review highlights the code's functionality, areas for improvement, and planned enhancements.
-
-- **🎥 [Watch Code Review Video](https://youtu.be/72ZpKvantUk)**
-
----
-
-## 📊 Professional Skills
-- **💻 Programming Languages:** Java, C++, Python
-- **🛠️ Tools and Technologies:** Spring Security, IDA Pro, Ghidra, MongoDB, Git
-- **🎯 Core Competencies:** Secure coding practices, software analysis, reverse engineering, data structures, and algorithms.
-
----
-
-## 📬 Contact Information
-- **✉️ Email:** [mrjperez89@gmail.com](mailto:mrjperez89@gmail.com)
-- **🌐 GitHub:** [GitHub Profile](https://github.com/Mrjperez89)
-- **📂 Portfolio Website:** [GitHub Pages ePortfolio](https://mrjperez89.github.io/ePortfolio)
-
----
-
-Thank you for visiting my ePortfolio! Please feel free to contact me if you have questions or would like to discuss my work further.
+    <h3>🐾 Grazioso Salvare Rescue Web App (CS 340: Client/Server Development)</h3>
+    <p>Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.</p>
+    <a class="btn" href="https://github.com/Mrjperez89/ePortfolio/tree/main/ProjectTwoDashboard">📂 Project Code Folder</a>
+  </section>
+  <footer>
+    <p>© 2024 Justin Perez | <a href="mailto:mrjperez89@gmail.com">Contact Me</a></p>
+  </footer>
+</body>
+</html>
