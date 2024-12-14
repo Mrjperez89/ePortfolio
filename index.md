@@ -1,32 +1,40 @@
+<link rel="stylesheet" href="style.css">
+
 # Welcome to My ePortfolio
 
-Hello! I'm Justin Perez, a Computer Science student at Southern New Hampshire University (SNHU), nearing the completion of my Bachelor's Degree with a concentration in Software Engineering. This ePortfolio highlights my journey, progress, and achievements in computer science, with a strong emphasis on secure coding, software development, and engineering principles.
+Hello! I'm **Justin Perez**, a Computer Science student at **Southern New Hampshire University (SNHU)**, nearing the completion of my Bachelor's Degree with a concentration in **Software Engineering**. This ePortfolio highlights my journey, progress, and achievements in computer science, with a strong emphasis on secure coding, software development, and engineering principles.
 
 ## Table of Contents
+<div id="table-of-contents">
 - [About Me](#about-me)
 - [Professional Self-Assessment](#professional-self-assessment)
 - [Projects](#projects)
 - [Code Review](#code-review)
 - [Professional Skills](#professional-skills)
 - [Contact Information](#contact-information)
+</div>
 
 ## About Me
-I am on track to complete my Bachelor’s Degree in Computer Science with a concentration in Software Engineering in December 2024. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving. My focus areas include secure software development and reverse engineering, with the intention of building reliable, scalable applications.
+<section>
+I am on track to complete my **Bachelor’s Degree in Computer Science** with a concentration in Software Engineering in **December 2024**. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving. My focus areas include secure software development and reverse engineering, with the intention of building reliable, scalable applications.
+</section>
 
 ## Professional Self-Assessment
+<section>
 This self-assessment reflects on my journey through the Computer Science program at SNHU, highlighting the skills I have developed, the challenges I have overcome, and my aspirations in the field of software engineering. It is a holistic introduction to my portfolio and provides context for the work presented here.
 
-I have demonstrated skills in the following:
+**Skills Demonstrated:**
 - Collaborative teamwork to solve technical challenges
 - Communication with stakeholders through detailed technical documentation and presentations
 - Secure coding practices to ensure application safety and data protection
 - Optimized algorithm design and efficient data structure usage
 - Database design and query optimization for enhanced performance
 
-My work emphasizes secure, efficient, and innovative software solutions for real-world challenges. Please explore my portfolio for tangible evidence of these competencies.
+My work emphasizes secure, efficient, innovative software solutions for real-world challenges. I'd like you to please explore my portfolio for tangible evidence of these competencies.
+</section>
 
 ## Projects
-
+<section>
 ### Secure Authentication System (CS 405: Secure Coding)
 Developed a secure authentication system that mitigates common security vulnerabilities, including encrypted password storage and input validation.
 - **[Narrative](Narratives/CS405_Narrative.docx)**
@@ -41,20 +49,25 @@ Analyzed and reverse-engineered software to identify security vulnerabilities, e
 Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.
 - **[Narrative](Narratives/CS340_Narrative.docx)**
 - **[Project Code](Projects/CS340/)**
+</section>
 
 ## Code Review
+<section class="video-section">
 As part of this capstone project, I conducted a comprehensive code review of the artifacts in my portfolio. This review highlights the code's functionality, areas for improvement, and planned enhancements.
 
 - **[Watch Code Review Video](https://youtu.be/72ZpKvantUk)**
+</section>
 
 ## Professional Skills
+<section>
 - **Programming Languages:** Java, C++, Python
 - **Tools and Technologies:** Spring Security, IDA Pro, Ghidra, MongoDB, Git
 - **Core Competencies:** Secure coding practices, software analysis, reverse engineering, data structures, and algorithms.
+</section>
 
 ## Contact Information
-- **Email:** [mrjperez89@gmail.com](mailto:mrjperez89@gmail.com)
-- **GitHub:** [GitHub Profile](https://github.com/Mrjperez89)
+<div class="contact-info">
+- **Email:** [mrjperez89@gmail.com](mailto:mrjperez89@gmail.com)  
+- **GitHub:** [GitHub Profile](https://github.com/Mrjperez89)  
 - 🌐 **Portfolio Website:** [GitHub Pages ePortfolio](https://mrjperez89.github.io/ePortfolio)
-
-Thank you for visiting my ePortfolio. Please feel free to contact me if you have questions or would like to discuss my work further.
+</div>
