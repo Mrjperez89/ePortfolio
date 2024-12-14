@@ -66,6 +66,7 @@
       padding: 0.5rem 1rem;
       border-radius: 20px;
       border: 2px solid #4169e1;
+      margin: 0.3rem;
       transition: background-color 0.3s ease, color 0.3s ease;
     }
     .btn:hover {
@@ -108,15 +109,23 @@
     <h2>💻 Projects</h2>
     <h3>🔐 Secure Authentication System (CS 405: Secure Coding)</h3>
     <p>Developed a secure authentication system that mitigates common security vulnerabilities, including encrypted password storage and input validation.</p>
+    <a class="btn" href="CS%20499%20Milestone%20Two%20Narrative.docx">📜 Narrative</a>
     <a class="btn" href="https://github.com/Mrjperez89/ePortfolio/tree/main/5-2%20EncryptionCodingActivity">📂 Project Code Folder</a>
 
     <h3>🔍 Reverse Engineering Software (CS 410: Reverse Software Engineering)</h3>
     <p>Analyzed and reverse-engineered software to identify security vulnerabilities, enhancing system security and proposing further improvements.</p>
+    <a class="btn" href="CS%20499%20Milestone%20Three%20Narrative.docx">📜 Narrative</a>
     <a class="btn" href="https://github.com/Mrjperez89/ePortfolio/tree/main/CS410Project">📂 Project Code Folder</a>
 
     <h3>🐾 Grazioso Salvare Rescue Web App (CS 340: Client/Server Development)</h3>
     <p>Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.</p>
+    <a class="btn" href="CS%20499%20Milestone%20Four%20Narrative.docx">📜 Narrative</a>
     <a class="btn" href="https://github.com/Mrjperez89/ePortfolio/tree/main/ProjectTwoDashboard">📂 Project Code Folder</a>
+  </section>
+  <section>
+    <h2>📂 Code Review</h2>
+    <p>As part of this capstone project, I conducted a comprehensive code review of the artifacts in my portfolio. This review highlights the code's functionality, areas for improvement, and planned enhancements.</p>
+    <a class="btn" href="https://youtu.be/72ZpKvantUk">🎥 Watch Code Review Video</a>
   </section>
   <footer>
     <p>© 2024 Justin Perez | <a href="mailto:mrjperez89@gmail.com">Contact Me</a></p>
