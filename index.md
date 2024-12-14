@@ -35,12 +35,12 @@ Developed a secure authentication system that mitigates common security vulnerab
 ### Reverse Engineering Software (CS 410: Reverse Software Engineering)
 Analyzed and reverse-engineered software to identify security vulnerabilities, enhancing system security and proposing further improvements.
 - **[Narrative](CS%20499%20Milestone%20Three%20Narrative.docx)**
-- **[Project Code](CS410Project)**
+- **[Project Code Folder](https://github.com/Mrjperez89/ePortfolio/tree/main/CS410Project)**
 
 ### Grazioso Salvare Rescue Web App (CS 340: Client/Server Development)
 Developed a MongoDB-integrated web application for Grazioso Salvare, allowing users to search and filter animal characteristics for rescue training suitability.
 - **[Narrative](CS%20499%20Milestone%20Four%20Narrative.docx)**
-- **[Project Code](international-rescue-animal-training-company-Grazioso-Salvare)**
+- **[Project Code Folder](https://github.com/Mrjperez89/ePortfolio/tree/main/international-rescue-animal-training-company-Grazioso-Salvare)**
 
 ## Code Review
 As part of this capstone project, I conducted a comprehensive code review of the artifacts in my portfolio. This review highlights the code's functionality, areas for improvement, and planned enhancements.
