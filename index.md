@@ -95,16 +95,47 @@
     <h2>📖 About Me</h2>
     <p>I am on track to complete my <strong>Bachelor’s Degree in Computer Science</strong> with a concentration in Software Engineering in <strong>December 2024</strong>. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving.</p>
   </section>
-  <section>
-    <h2>📝 Professional Self-Assessment</h2>
-    <ul>
-      <li>🤝 Collaborative teamwork to solve technical challenges</li>
-      <li>✍️ Communication with stakeholders through detailed technical documentation and presentations</li>
-      <li>🔐 Secure coding practices to ensure application safety and data protection</li>
-      <li>⚙️ Optimized algorithm design and efficient data structure usage</li>
-      <li>📂 Database design and query optimization for enhanced performance</li>
-    </ul>
-  </section>
+<section>
+  <h2>📝 Professional Self-Assessment</h2>
+  <p>
+    As I approach the culmination of my <strong>Bachelor’s Degree in Computer Science</strong> with a concentration in Software Engineering at <strong>Southern New Hampshire University</strong>, this ePortfolio represents a comprehensive reflection on my academic and professional journey. Throughout this program, I have gained robust technical and professional skills, shaped my career aspirations, and prepared myself for meaningful contributions to computer science.
+  </p>
+  <h3>Showcasing Strengths and Preparing for the Industry</h3>
+  <p>
+    The coursework and experiences throughout my academic program have allowed me to build and showcase skills in secure coding, data structure optimization, and software development. These experiences have strengthened my technical capabilities and fostered my professional growth. Developing this ePortfolio has provided a platform to quantify my strengths, align my projects with industry demands, and demonstrate my readiness to solve real-world problems. I am confident that I am well-prepared to make meaningful contributions to the industry.
+  </p>
+  <p>
+    For example, creating a <strong>secure authentication system</strong> in <strong>CS 405: Secure Coding</strong> required me to implement strong encryption practices and input validation mechanisms, ensuring application safety. This project highlighted my ability to prioritize security, a vital competency in today’s software engineering landscape. Similarly, the <strong>reverse engineering project</strong> from <strong>CS 410: Reverse Software Engineering</strong> emphasized my analytical and problem-solving abilities by dissecting and improving existing codebases.
+  </p>
+  <h3>Core Competencies and Specific Examples</h3>
+  <p>The following topics highlight some of my key competencies, developed and demonstrated during my academic journey:</p>
+  <ul>
+    <li><strong>🤝 Collaborating in a Team Environment:</strong> Effective teamwork is a cornerstone of success in software development. In courses like <strong>CS 310: Collaboration and Team Project</strong>, I learned to coordinate tasks, share responsibilities, and communicate effectively with team members. These experiences have prepared me for collaborative work environments, where diverse perspectives drive innovation.</li>
+    <li><strong>✍️ Communicating with Stakeholders:</strong> Ensuring detailed technical documentation and effectively presenting work has been integral to my success. For instance, the <strong>Grazioso Salvare Rescue Web App</strong> project required clear communication of technical concepts to non-technical stakeholders, ensuring mutual understanding of project goals and outcomes.</li>
+    <li><strong>🔗 Data Structures and Algorithms:</strong> Advanced coursework, including <strong>CS 260: Data Structures and Algorithms</strong>, sharpened my ability to write efficient, scalable code. By integrating data structure optimization in projects, I ensured that solutions were robust and computationally effective.</li>
+    <li><strong>⚙️ Software Engineering and Database:</strong> Developing a full-stack application for the <strong>Grazioso Salvare project</strong> involved integrating a MongoDB database with a Python-based interface. This project demonstrated my ability to design user-friendly, scalable, and efficient software systems.</li>
+    <li><strong>🔐 Security:</strong> A security-first mindset has been a consistent focus of my work. In <strong>CS 405</strong>, I honed my ability to anticipate vulnerabilities and mitigate risks, ensuring that software solutions met the highest safety and compliance standards.</li>
+  </ul>
+  <h3>Artifacts and Their Integration</h3>
+  <p>
+    The artifacts included in my ePortfolio represent the breadth of my technical expertise and problem-solving capabilities:
+  </p>
+  <ul>
+    <li><strong>CS 405: Secure Authentication System:</strong> Demonstrates my ability to design secure, user-focused solutions.</li>
+    <li><strong>CS 410: Reverse Engineering Project:</strong> Highlights my analytical skills and ability to enhance pre-existing software.</li>
+    <li><strong>CS 340: Grazioso Salvare Web App:</strong> Showcases my full-stack development, database integration, and user interface design expertise.</li>
+  </ul>
+  <p>
+    These artifacts provide a cohesive narrative of my growth as a computer scientist. They illustrate my technical understanding and ability to think critically, work collaboratively, and deliver high-quality software solutions.
+  </p>
+  <h3>Conclusion</h3>
+  <p>
+    Developing this ePortfolio has been a profoundly transformative experience. It has helped me consolidate my learning, reflect on my achievements, and prepare for the professional challenges ahead. This ePortfolio is not just a showcase of my skills but a testament to my dedication to continuous learning and excellence. It positions me as a strong candidate for roles in software engineering, with the ability to contribute meaningfully to projects requiring secure, scalable, and innovative solutions.
+  </p>
+  <p>
+    I eagerly look forward to applying the knowledge and skills I have gained to real-world challenges, collaborating with talented teams, and making a lasting impact in computer science.
+  </p>
+</section>
   <section>
     <h2>💻 Projects</h2>
     <h3>🔐 Secure Authentication System (CS 405: Secure Coding)</h3>
