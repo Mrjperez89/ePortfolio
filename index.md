@@ -128,7 +128,6 @@
   <p>
     These artifacts provide a cohesive narrative of my growth as a computer scientist. They illustrate my technical understanding and ability to think critically, work collaboratively, and deliver high-quality software solutions.
   </p>
-  <h3>Conclusion</h3>
   <p>
     Developing this ePortfolio has been a profoundly transformative experience. It has helped me consolidate my learning, reflect on my achievements, and prepare for the professional challenges ahead. This ePortfolio is not just a showcase of my skills but a testament to my dedication to continuous learning and excellence. It positions me as a strong candidate for roles in software engineering, with the ability to contribute meaningfully to projects requiring secure, scalable, and innovative solutions.
   </p>
