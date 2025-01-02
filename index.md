@@ -100,14 +100,17 @@
         My professional journey began in retail management, where I honed skills in <strong>time management</strong>, <strong>problem-solving</strong>, and <strong>team leadership</strong>. These experiences have seamlessly transitioned into my academic and professional pursuits, enabling me to excel in tackling complex technical challenges with a strategic and organized approach.
     </p>
     <p>
-        I am passionate about leveraging technology to create innovative and user-focused solutions. My key areas of interest include <strong>application development</strong>, <strong>data-driven decision-making</strong>, and <strong>secure software engineering</strong>. Through my ePortfolio, I aim to showcase my technical expertise and my commitment to continuous learning and professional growth.
+        I am passionate about leveraging technology to create innovative and user-focused solutions. My key areas of interest include <strong>application development</strong>, <strong>data-driven decision-making</strong>, and <strong>secure software engineering</strong>. Through my ePortfolio, I aim to showcase my technical expertise and commitment to continuous learning and professional growth.
     </p>
 </section>
 <section>
   <h2>📝 Professional Self-Assessment</h2>
-  <p>
-    As I approach the culmination of my <strong>Bachelor’s Degree in Computer Science</strong> with a concentration in Software Engineering at <strong>Southern New Hampshire University</strong>, this ePortfolio represents a comprehensive reflection on my academic and professional journey. Throughout this program, I have gained robust technical and professional skills, shaped my career aspirations, and prepared myself for meaningful contributions to computer science.
-  </p>
+    <p>
+        As I complete my <strong>Bachelor’s Degree in Computer Science</strong> with a concentration in <strong>Software Engineering</strong> from <strong>Southern New Hampshire University</strong> and prepare to embark on a <strong>Master of Science in Information Technology</strong> with a concentration in <strong>Software Application Development</strong>, this ePortfolio represents a comprehensive reflection on my academic and professional journey. 
+    </p>
+    <p>
+        Throughout this program, I have developed a robust technical and professional skills foundation, from secure coding practices and data structure optimization to full-stack application development. My experiences have shaped my career aspirations and reinforced my commitment to leveraging technology to solve real-world challenges and create innovative solutions. This ePortfolio highlights my growth as a technologist and reflects my readiness to make meaningful contributions to computer science and information technology.
+    </p>
   <h3>Showcasing Strengths and Preparing for the Industry</h3>
   <p>
     The coursework and experiences throughout my academic program have allowed me to build and showcase skills in secure coding, data structure optimization, and software development. These experiences have strengthened my technical capabilities and fostered my professional growth. Developing this ePortfolio has provided a platform to quantify my strengths, align my projects with industry demands, and demonstrate my readiness to solve real-world problems. I am confident that I am well-prepared to make meaningful contributions to the industry.
