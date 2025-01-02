@@ -91,10 +91,18 @@
     <h1>🎓 Welcome to My ePortfolio</h1>
     <p>Showcasing Achievements in Computer Science</p>
   </header>
-  <section>
+<section>
     <h2>📖 About Me</h2>
-    <p>I am on track to complete my <strong>Bachelor’s Degree in Computer Science</strong> with a concentration in Software Engineering in <strong>December 2024</strong>. With a background in retail management, I transitioned into computer science to pursue my passion for technology and problem-solving.</p>
-  </section>
+    <p>
+        Hello! My name is <strong>Justin Perez</strong>, and I am a recent graduate with a <strong>Bachelor’s Degree in Computer Science</strong>, concentrating in <strong>Software Engineering</strong>, from <strong>Southern New Hampshire University</strong>. I am currently preparing to pursue a <strong>Master of Science in Information Technology</strong> with a concentration in <strong>Software Application Development</strong>.
+    </p>
+    <p>
+        My professional journey began in retail management, where I honed skills in <strong>time management</strong>, <strong>problem-solving</strong>, and <strong>team leadership</strong>. These experiences have seamlessly transitioned into my academic and professional pursuits, enabling me to excel in tackling complex technical challenges with a strategic and organized approach.
+    </p>
+    <p>
+        I am passionate about leveraging technology to create innovative and user-focused solutions. My key areas of interest include <strong>application development</strong>, <strong>data-driven decision-making</strong>, and <strong>secure software engineering</strong>. Through my ePortfolio, I aim to showcase my technical expertise and my commitment to continuous learning and professional growth.
+    </p>
+</section>
 <section>
   <h2>📝 Professional Self-Assessment</h2>
   <p>
