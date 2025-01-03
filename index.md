@@ -104,6 +104,11 @@
     </p>
 </section>
 <section>
+  <h2>📄 Professional Resume</h2>
+  <p>My professional resume outlines my academic achievements, technical expertise, and work experience. Click the button below to view and download the PDF.</p>
+  <a class="btn" href="https://raw.githubusercontent.com/Mrjperez89/ePortfolio/main/Professional%20Resume.pdf" target="_blank">📂 View My Resume</a>
+</section>
+<section>
   <h2>📝 Professional Self-Assessment</h2>
     <p>
         As I complete my <strong>Bachelor’s Degree in Computer Science</strong> with a concentration in <strong>Software Engineering</strong> from <strong>Southern New Hampshire University</strong> and prepare to embark on a <strong>Master of Science in Information Technology</strong> with a concentration in <strong>Software Application Development</strong>, this ePortfolio represents a comprehensive reflection on my academic and professional journey. 
